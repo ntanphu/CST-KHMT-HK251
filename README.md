@@ -18,23 +18,23 @@ Học kỳ: 251
 ## Phân công nội dung chi tiết:
 ### Section 1:
 Responsible Person: [Nguyễn Tấn Phú]
-Key Topics:
+- Key Topics:
 
 ### Section 2:
 Responsible Person: [Nguyễn Đăng Khoa]
-Key Topics:
+- Key Topics:
 
 ### Section 3:
 Responsible Person: [Phạm Hoàng Sơn]
-Key Topics:
+- Key Topics:
 
 ### Section 4:
 Responsible Person: [Nguyễn Hoàng Nam]
-Key Topics:
+- Key Topics:
 
 ### Section 5:
 Responsible Person: [Nguyễn Trần Huy Việt]
-Key Topics:
+- Key Topics:
 
 ### Section 6: Implementation Updates – Figures, Notebook, and Report
 Responsible Person: [Nguyễn Tấn Phú]
