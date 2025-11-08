@@ -9,6 +9,12 @@ Học kỳ: 251
 
 ## Bài tập lớn:
 Đề tài: Comparative Study of Optimization Algorithms: AdaDelta and Adam
+
+Mục tiêu chung:
+- Hiểu rõ nguyên lý, công thức và cơ chế cập nhật của Adadelta và Adam.
+- Biết cách áp dụng chúng vào bài toán tối ưu trong học sâu (Deep Learning).
+- So sánh hiệu năng, tốc độ hội tụ và độ ổn định với các phương pháp khác (SGD, RMSProp, Adagrad).
+
 ## Học viên thực hiện:
 - Nguyễn Tấn Phú - 2480859
 - Nguyễn Đăng Khoa - 2570431
