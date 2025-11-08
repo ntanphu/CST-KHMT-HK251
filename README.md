@@ -17,13 +17,19 @@ Học kỳ: 251
 - Nguyễn Trần Huy Việt - 2252906
 ## Phân công nội dung chi tiết:
 ### Section 1:
+Responsible Person: [Nguyễn Tấn Phú]
 
 ### Section 2:
+Responsible Person: [Nguyễn Đăng Khoa]
 
 ### Section 3:
+Responsible Person: [Phạm Hoàng Sơn]
 
 ### Section 4:
+Responsible Person: [Nguyễn Hoàng Nam]
 
 ### Section 5:
+Responsible Person: [Nguyễn Trần Huy Việt]
 
 ### Section 6:
+Responsible Person: [Nguyễn Tấn Phú]
