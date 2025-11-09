@@ -80,7 +80,7 @@ Thực nghiệm
 - Ghi nhận đặc điểm: tốc độ hội tụ, ổn định, độ dao động loss.
 - Gợi ý khi nào nên dùng Yogi.
 
-### Section 6: Implementation Updates – Figures, Notebook, and Report
+### Section 7: Implementation Updates – Figures, Notebook, and Report
 Responsible Person: [Nguyễn Tấn Phú]
 - Thực hiện tổng hợp các lý thuyết
 - Thực nghiệm và Bảng so sánh các thuật toán (SGD, AdaGrad, RMSProp, AdaDelta, Adam).
