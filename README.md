@@ -22,21 +22,38 @@ Mục tiêu chung:
 - Nguyễn Hoàng Nam - 2570460
 - Nguyễn Trần Huy Việt - 2252906
 ## Phân công nội dung chi tiết:
-### Section 1:
+### Section 1: Tổng quan & nền tảng toán học
 Responsible Person: [Nguyễn Tấn Phú]
-- Key Topics:
 
-### Section 2:
+Key Topics: Giới thiệu về thuật toán tối ưu, động cơ xuất hiện AdaDelta & Adam
+- Trình bày lại nhược điểm của SGD, Momentum, RMSProp.
+- Giải thích công thức cập nhật tổng quát của Gradient Descent.
+- Giải thích khái niệm moving average, learning rate, adaptive methods.
+- Trình bày “Lý do cần AdaDelta & Adam”.
+
+### Section 2: Thuật toán AdaDelta (Lý thuyết)
 Responsible Person: [Nguyễn Đăng Khoa]
-- Key Topics:
 
-### Section 3:
+Key Topics: AdaDelta – Nguyên lý, công thức cập nhật
+- Trình bày công thức AdaDelta từ D2L, công thức được diễn giải toán học rõ ràng.
+- Giải thích từng thành phần: ρ, RMS, gradient.
+- So sánh với RMSProp (điểm khác biệt chính).
+
+### Section 3: AdaDelta (thực nghiệm & ví dụ)
 Responsible Person: [Phạm Hoàng Sơn]
-- Key Topics:
 
-### Section 4:
+Key Topics: Cài đặt và minh họa AdaDelta
+- Cài đặt AdaDelta bằng Python (NumPy hoặc PyTorch).
+- So sánh kết quả hội tụ với SGD, RMSProp.
+- File code minh họa, biểu đồ hội tụ (loss vs iteration).
+
+### Section 4: Thuật toán Adam (lý thuyết)
 Responsible Person: [Nguyễn Hoàng Nam]
-- Key Topics:
+
+Key Topics: Adam – Adaptive Moment Estimation
+- Phần lý thuyết chi tiết Adam. Trình bày công thức diễn giải toán học rõ ràng.
+- Giải thích ý nghĩa: bias correction, moving average, lợi ích.
+- Bảng so sánh các thuật toán (SGD, AdaGrad, RMSProp, AdaDelta, Adam).
 
 ### Section 5:
 Responsible Person: [Nguyễn Trần Huy Việt]
