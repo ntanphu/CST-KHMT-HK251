@@ -63,8 +63,6 @@ Key Topics: Cài đặt và minh họa Adam
 - Cài đặt Adam, chạy song song với Adadelta cùng bộ dữ liệu.
 - Chạy thử với một bài toán nhỏ ( Cơ sở dữ liệu MNIST, Convolutional Neural Networks đơn giản (CNN)).
 - File code minh họa, biểu đồ hội tụ (loss vs iteration), accuracy.
-- So sánh tốc độ hội tụ, độ ổn định, loss, accuracy.
-- Tổng hợp bảng so sánh 2 thuật toán (ưu, nhược, khi nào dùng).
 
 ### Section 6: Lý thuyết, thực nghiệm [12.10.3. Yogi]
 Responsible Person: [Nguyễn Tấn Phú]
@@ -86,4 +84,6 @@ Thực nghiệm
 Responsible Person: [Nguyễn Tấn Phú]
 - Thực hiện tổng hợp các lý thuyết
 - Thực nghiệm và Bảng so sánh các thuật toán (SGD, AdaGrad, RMSProp, AdaDelta, Adam).
+- So sánh tốc độ hội tụ, độ ổn định, loss, accuracy.
+- Tổng hợp bảng so sánh 2 thuật toán (ưu, nhược, khi nào dùng).
 
