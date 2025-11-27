@@ -87,3 +87,10 @@ Responsible Person: [Nguyễn Tấn Phú]
 - So sánh tốc độ hội tụ, độ ổn định, loss, accuracy.
 - Tổng hợp bảng so sánh 2 thuật toán (ưu, nhược, khi nào dùng).
 
+## References
+@inproceedings{zaheer2018adaptive,
+  title={Adaptive Methods for Nonconvex Optimization},
+  author={Zaheer, Manzil and Reddi, Sashank J and Sachan, Devendra and Kale, Satyen and Kumar, Sanjiv},
+  booktitle={Advances in Neural Information Processing Systems (NeurIPS)},
+  year={2018}
+}
