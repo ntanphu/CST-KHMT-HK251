@@ -88,6 +88,4 @@ Responsible Person: [Nguyễn Tấn Phú]
 - Tổng hợp bảng so sánh 2 thuật toán (ưu, nhược, khi nào dùng).
 
 ## References
-Zaheer, M., Reddi, S. J., Sachan, D., Kale, S., & Kumar, S. (2018).  
-**Adaptive Methods for Nonconvex Optimization.**  
-*Advances in Neural Information Processing Systems (NeurIPS)*.
+[1] Zaheer, M., Reddi, S. J., Sachan, D., Kale, S., & Kumar, S. (2018). **Adaptive Methods for Nonconvex Optimization.** *Advances in Neural Information Processing Systems (NeurIPS)*.
