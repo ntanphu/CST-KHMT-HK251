@@ -89,5 +89,7 @@ Responsible Person: [Nguyễn Tấn Phú]
 
 ## References
 [1] D. P. Kingma and J. Ba, Adam: A Method for Stochastic Optimization, ICLR 2015.
+
 [2] S. J. Reddi, S. Kale, and S. Kumar, On the Convergence of Adam and Beyond, ICLR 2018.
+
 [3] Zaheer, M., Reddi, S. J., Sachan, D., Kale, S., & Kumar, S. (2018). **Adaptive Methods for Nonconvex Optimization.** *Advances in Neural Information Processing Systems (NeurIPS)*.
