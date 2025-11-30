@@ -70,7 +70,7 @@ Responsible Person: [Nguyễn Tấn Phú]
 Key Topics: Lý thuyết
 - Mô tả vì sao Adam có thể không hội tụ trong bài toán lồi (convex).
 - Giải thích sự khác biệt trong cách cập nhật v_t giữa Adam và Yogi.
-- Giải thích trực quan cách nó ngăn v_{t} “phình to”.
+- Giải thích trực quan cách nó ngăn v_{t} bị “phóng đại”.
 
 Thực nghiệm
 - Cài đặt Yogi (numpy hoặc PyTorch).
@@ -83,7 +83,7 @@ Thực nghiệm
 ### Section 7: Implementation Updates – Figures, Notebook, and Report
 Responsible Person: [Nguyễn Tấn Phú]
 - Thực hiện tổng hợp các lý thuyết
-- Thực nghiệm và Bảng so sánh các thuật toán (SGD, AdaGrad, RMSProp, AdaDelta, Adam).
+- Thực nghiệm và Bảng so sánh các thuật toán (SGD, AdaDelta, Adam, Yogi).
 - So sánh tốc độ hội tụ, độ ổn định, loss, accuracy.
 - Tổng hợp bảng so sánh 2 thuật toán (ưu, nhược, khi nào dùng).
 
