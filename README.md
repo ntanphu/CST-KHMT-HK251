@@ -5,7 +5,7 @@ Học kỳ: 251
 ## Giảng viên hướng dẫn:
 - TS. Nguyễn An Khương
 - TS. Trần Tuấn Anh
-- TS. Lê Hồng Trang
+- PGS. TS. Lê Hồng Trang
 
 ## Bài tập lớn:
 Đề tài: Comparative Study of Optimization Algorithms: AdaDelta and Adam
