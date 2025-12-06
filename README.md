@@ -29,7 +29,6 @@ Key Topics: Tổng quan và kiến thức cơ sở về các thuật toán tối
 - Mô tả nhược điểm của Adagrad → động cơ ra đời của Adadelta và Adam.
 - Viết lại công thức cơ bản của GD và Momentum để tạo nền tảng so sánh.
 - Giải thích khái niệm moving average, learning rate, adaptive methods.
-- Trình bày “Lý do cần AdaDelta & Adam”.
 
 ### Section 2: Thuật toán AdaDelta (Lý thuyết)
 Responsible Person: [Nguyễn Đăng Khoa]
